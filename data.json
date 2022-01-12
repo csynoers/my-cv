@@ -1,0 +1,545 @@
+{
+    "data": [
+      {
+        "date": "2019-11-01",
+        "title": "Sistem Informasi Ujian Online SMP Negeri 1 Sedayu, Yogyakarta",
+        "description": "Sistem untuk Membandingkan Algoritma LCG & SQL random untuk proses pengacakan soal",
+        "url": "-",
+        "type": "free-lance",
+        "status": "-",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2019-09-30",
+        "title": "SPK Penilaian Karyawan JogjaBay",
+        "description": "Sistem Pencarian karyawan terbaik menggunakan menggunakan metode SAW & Fuzzy logic",
+        "url": "-",
+        "type": "free-lance",
+        "status": "-",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2019-05-12",
+        "title": "Toko Online Ukhwah Store Yogyakarta",
+        "description": "Toko online untuk baju muslim muslimah",
+        "url": "-",
+        "type": "free-lance",
+        "status": "-",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2021-09-06",
+        "title": "SPK TOEIC STTA Yogyakarta",
+        "description": "Sistem Pencarian TOEIC mahasiswa terbaik menggunakan metode SAW",
+        "url": "-",
+        "type": "free-lance",
+        "status": "-",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2017-02-03",
+        "title": "Sumber Tirta Jogjakarta",
+        "description": "Website profile dan pemasaran jasa sumur bor jogjakarta",
+        "url": "https://ahlisumurdanpompaair.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-02-16",
+        "title": "Kantor Pengacara Moh Fadly",
+        "description": "Website profile jasa pengacara dan konsultasi hukum di seluruh indonesia",
+        "url": "https://kantorpengacara-mf.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-03-02",
+        "title": "BIMBEL IC Yogyakarta",
+        "description": "Website profil lembaga konsultasi dan bimbingan belajar Indonesia College Yogyakarta",
+        "url": "https://bimbel-ic.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-03-09",
+        "title": "BIMBEL IC Surabaya",
+        "description": "Website profil lembaga konsultasi dan bimbingan belajar Indonesia College Cabang Surabaya",
+        "url": "https://bimbel-icsurabaya.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-03-23",
+        "title": "Pintu Garasi Wina Jogja",
+        "description": "Website Katalog & Jasa pintu besi garasi wina jogja",
+        "url": "https://pintugarasiwinajogja.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-04-03",
+        "title": "MESTAKUNG FARM",
+        "description": "Website Profile usaha di bidang perikanan",
+        "url": "https://mestakungfarm.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-05-05",
+        "title": "RAJAMEBEL Magelang",
+        "description": "Website Katalog untuk jasa pemasaran Furniture",
+        "url": "https://rajamebel.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-05-08",
+        "title": "Tour Travel Dieng",
+        "description": "Website Profil untuk jasa Tour & Travel Dieng Wonosobo",
+        "url": "https://tourtraveldieng.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-05-23",
+        "title": "Bagoes Adventure",
+        "description": "Website Profil untuk pemasaran jasa petualangan di daerah magelang seperti arus jeram dll",
+        "url": "https://bagoesadventure.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-06-20",
+        "title": "Golden Indoland",
+        "description": "Website Profil perusahaan dan pemasaran apartemen",
+        "url": "https://goldenindoland.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2017-07-06",
+        "title": "Batik Miranti Jogja",
+        "description": "Website Profil, Katalog Batik Miranti Jogja",
+        "url": "https://batikmirantijogja.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-08-31",
+        "title": "Fakultas Hukum Universitas Lancang Kuning",
+        "description": "Sistem Informasi Portal untuk Fakultas Hukum Universital Lancang Kuning ",
+        "url": "https://fh.unilak.ac.id",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-09-20",
+        "title": "Patung Perunggu Jogja",
+        "description": "Website Profil dan pemasaran Patung perunggu jogja seperti patung perunggu, patung export, patung lawas, pengecoran patung, perawatan patung dll",
+        "url": "https://patungperunggu.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-09-22",
+        "title": "Dewantara Career Center UST Yogyakarta",
+        "description": "Sistem Informasi Pusat Karir di universitas Sarjanawiyata Tamansiswa Yogyakarta seperti Tracer study, Pelatihan Pusat Karir dll",
+        "url": "https://dcc.ustjogja.ac.id",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-10-19",
+        "title": "Fitria Teknik Jakarta",
+        "description": "Website Profil dan jasa service pompa air dan sumur bor fitria teknik di jakarta",
+        "url": "https://servicepompaairdansumurbor.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-10-31",
+        "title": "YAYASAN MERANGAT",
+        "description": "Sistem Informasi pemberdayaan masyarakat desa melalui penguatan kapasitas warga dan organisasi masyarakat sipil dalam mengelola sumberdaya desa secara berkelanjutan untuk kesejahteraan masyarakat desa",
+        "url": "https://merangat.or.id",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2017-09-14",
+        "title": "Bakso Komplit(BASKOM) Jogjakarta",
+        "description": "Website Profil dan pemasaran Rumah Makan Bakso Komplit Jl. Wonosari Km 9 Berbah, Sleman",
+        "url": "https://baskom.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-11-13",
+        "title": "Bosna Kota Medan",
+        "description": "Sistem Informasi dan Profil Bosna Kota Medan Jl. Sekip , Medan City, Sumatra Utara",
+        "url": "https://bosnamedan.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-11-29",
+        "title": "Toko Jam",
+        "description": "Toko Online berbagai macam jam tangan seperti: Aigner, Alba, Elle, Alexander Christie, Bonia, Casio dan masih banyak lainnya",
+        "url": "https://tokojam.co.id",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-12-05",
+        "title": "Ahli Sumur Jogja",
+        "description": "Website Profile dan pemasaran jasa pembuatan sumur Bor, sumur gali, Suntik sumur cemar/kering, sedot Wc, saluran mampet, Service pompa air segala macam dan merek pompa. Pelayanan terbaik, Tukang Profesional Harga MURAH",
+        "url": "https://ahlisumurjogja.net",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-12-05",
+        "title": "Alvin Teknik",
+        "description": "Website Profile dan pemasaran Jasa sumur bor air jakarta sebagai solusi mengatasi Anda untuk menangani masalah yang berhubungan dengan air",
+        "url": "https://borairjakarta.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2020-09-08",
+        "title": "Raditia Teknik",
+        "description": "Website Profile dan pemasaran Jasa  Service Pompa Air, Pengeboran Air Tanah, Pemanas Air, Pasang Filter, Ganti Isi Filter, Mesin Jet-Pump dll Jakarta, Bogor, Depok, Tangerang, Bekasi ( JaBoDeTaBek )",
+        "url": "https://servicepompaairjakarta.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2017-11-30",
+        "title": "Helnos Sablon",
+        "description": "Website Profile & Pemasaran salah satu tempat sablon yang berlokasi di Kabupaten Kulon Progo. Tempat ini melayani jasa sablon untuk berbagai keperluan seperti baju organisasi, baju komunitas dan ormas. Jasa sablon yang ditawarkan murah terjangkau dengan kualitas terbaik",
+        "url": "https://helnossablon.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-12-06",
+        "title": "Rumah Sehat Alami BN",
+        "description": "Website Profile & Pemasaran produk obat tradisional dan jasa pengobatan spiritual yang bertempat di Jakarta",
+        "url": "https://rumahsehatalamibn.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2017-12-15",
+        "title": "SMP Santo Aloysius Sleman",
+        "description": "Sistem Informasi Sekolah",
+        "url": "https://rumahsehatalamibn.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2018-01-03",
+        "title": "Pendidikan Forex",
+        "description": "Website Profile dan Pemasaran untuk Forex Trading",
+        "url": "https://pendidikanforex.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "CMS Wordpress"
+      },
+      {
+        "date": "2018-01-18",
+        "title": "Pondok Pesantren Modern Umar Bin Khotob",
+        "description": "Sistem Informasi Pondok Pesantren",
+        "url": "https://ponpesmodernumarbinkhotob.sch.id",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2018-01-30",
+        "title": "Diva Metal Mandiri",
+        "description": "Website profile dan pemasaran jasa kitchen set",
+        "url": "https://divametalmandiri.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2018-03-09",
+        "title": "Kantor Pengacara SA & Partners(SAP)",
+        "description": "Website profile sebuah kantor hukum, kantor Advokat/Pengacara dan Konsultan Hukum Perceraian/Cerai di Yogyakarta (Jogja), Madiun dan  wilayah lainnya, melayani jasa hukum baik pembuatan dokumen legal/hukum maupun jasa pendampingan hukum baik didalam persidangan maupun di luar persidangan (non-litigasi). Kami juga menawarkan jasa hukum kasus lainnya: Pidana, Waris, Sengketa Tanah dll.",
+        "url": "https://kantorpengacara-sap.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2018-03-15",
+        "title": "Hasbuna MBS",
+        "description": "Toko Online unit usaha ekonomi dibawah naungan Pondok Pesantren Modern Muhammadiyah Boarding School Yogyakarta (PPM MBS Sleman) ",
+        "url": "https://hasbunambs.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2018-03-16",
+        "title": "Jaringan Dokumentasi dan Informasi Hukum Kabupaten Magelang",
+        "description": "Website resmi Sistem Informasi Dokumentasi Hukum Magelang",
+        "url": "https://jdih.magelangkab.go.id",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2018-04-10",
+        "title": "MELATIMAS",
+        "description": "Website Profil dan pemasaran Rumah dan Apartemen",
+        "url": "https://melatimas.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2018-04-27",
+        "title": "Inovasi Manufaktur",
+        "description": "Sistem Informasi Inovasi Manufaktur UGM",
+        "url": "https://inovasimanufaktur.ft.ugm.ac.id",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "CMS Wordpress"
+      },
+      {
+        "date": "2018-05-15",
+        "title": "Inovasi Manufaktur",
+        "description": "Sistem Informasi LPK Kapal Pesiar dan Perhotelan",
+        "url": "https://dutapersadajogja.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2018-07-05",
+        "title": "Gunung Kidul Jorney",
+        "description": "Website Profil dan Pemasaran Jasa Tour & travel ",
+        "url": "https://gunungkiduljourney.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2018-09-19",
+        "title": "Jogja Reklame",
+        "description": "Website Profil dan Pemasaran Jasa Produksi Media Promosi Advertising dan Reklame",
+        "url": "https://jogjareklame.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2018-09-26",
+        "title": "Alya Tirta Ahli Sumur",
+        "description": "Website Profil dan Pemasaran Jasa service pompa air jogja sleman, bantul melayani 24 jam ",
+        "url": "https://servicepompaairsumurborjogja.com/",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2018-11-23",
+        "title": "Fakultas Ipa UST Jogja",
+        "description": "Sistem Informasi Skripsi",
+        "url": "-",
+        "type": "Jogjasite",
+        "status": "-",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2018-12-06",
+        "title": "Tes Online Indonesia Coollege Yogyakarta",
+        "description": "Sistem Try Out CAT (Computer Assisted Test) CPNS",
+        "url": "-",
+        "type": "Jogjasite",
+        "status": "-",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2018-12-18",
+        "title": "FURNISHLAND",
+        "description": "Website Katalog untuk produk Furniture",
+        "url": "https://furnishland.com",
+        "type": "Jogjasite",
+        "status": "-",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2019-01-23",
+        "title": "PUPR Tanah Bumbu Kalimantan Selatan",
+        "description": "Sistem Informasi GIS untuk jaringan irigasi",
+        "url": "-",
+        "type": "Jogjasite",
+        "status": "-",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2019-02-28",
+        "title": "Duta Persada Jogja",
+        "description": "Sistem Informasi siswa, manajemen barang, bangunan dan keuangan",
+        "url": "-",
+        "type": "Jogjasite",
+        "status": "-",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2019-03-26",
+        "title": "Yo Bersih",
+        "description": "Web Profil dan pemasaran jasa kebersihan",
+        "url": "https://yobersih.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2019-04-24",
+        "title": "Homeschooling HSPG Jakarta Timur",
+        "description": "Sistem Informasi Sekolah Homeschooling HSPG Khusus SD SMP dan SMA serta CAMBRIDGE",
+        "url": "https://homeschooling-jakarta.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2020-01-21",
+        "title": "Mustika Souvenir",
+        "description": "Website Katalog untuk produk souvenir",
+        "url": "https://mustika-souvenir.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2020-05-20",
+        "title": "Politeknik Indotec Kendari",
+        "description": "Sistem Informasi Politeknik Indotec Kendari",
+        "url": "https://politeknikindoteckdi.ac.id",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2020-07-07",
+        "title": "Homeschooling Prima Edukasi",
+        "description": "Sistem Informasi Tes Diagnostik",
+        "url": "https://td.homeschoolingprimaedukasi.com/",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2020-07-07",
+        "title": "Homeschooling Prima Edukasi",
+        "description": "Sistem Informasi Tes Diagnostik",
+        "url": "https://td.homeschoolingprimaedukasi.com/",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2020-07-13",
+        "title": "Rest API & Mobile App Anakhebatindonesia",
+        "description": "Membuat Rest API & Mobile App untuk toko online",
+        "url": "https://api.anakhebatindonesia.com",
+        "type": "Jogjasite",
+        "status": "suspend",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2021-02-14",
+        "title": "KKP Yogyakarta",
+        "description": "Website Resmi Kantor Kesehatan Pelabuhan Yogyakarta",
+        "url": "https://kkpyogyakarta.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Nativ"
+      },
+      {
+        "date": "2021-02-24",
+        "title": "KKP Yogyakarta",
+        "description": "Sistem Informasi Dokumen",
+        "url": "https://dokumen.kkpyogyakarta.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2021-02-24",
+        "title": "KKP Yogyakarta",
+        "description": "Sistem Informasi Logbook",
+        "url": "https://logbook.kkpyogyakarta.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2021-06-24",
+        "title": "KKP Yogyakarta",
+        "description": "Sistem Informasi Absensi Pegawai",
+        "url": "https://absensi.kkpyogyakarta.com",
+        "type": "Jogjasite",
+        "status": "aktif",
+        "framework": "Codeigniter"
+      },
+      {
+        "date": "2021-09-13",
+        "title": "Monomania Store",
+        "description": "Toko Online untuk produk japanese seperti buku, mecandis dll ",
+        "url": "https://monomaniastore.com",
+        "type": "Jogjasite",
+        "status": "suspen",
+        "framework": "CMS Wordpress"
+      },
+      {
+        "date": "2021-12-06",
+        "title": "PatBa Air",
+        "description": "Sistem Informasi Booking Tiket Pesawat",
+        "url": "https://patbaair.site.co.id",
+        "type": "Jogjasite",
+        "status": "-",
+        "framework": "Laravel"
+      },
+      {
+        "date": "2022-01-05",
+        "title": "Radio UII",
+        "description": "Website Profil untuk Galaxy Radio UII",
+        "url": "-",
+        "type": "Jogjasite",
+        "status": "-",
+        "framework": "Laravel"
+      }
+      
+    ]
+  }
